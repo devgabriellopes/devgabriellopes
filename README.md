@@ -77,9 +77,8 @@ A modern CLI tool for efficient project scaffolding and management.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgabriellopes&theme=dark" alt="Gabriel's GitHub Stats" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabriellopes&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devgabriellopes&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&icon_color=8b5cf6&bg_color=0a0a0a" height="150" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabriellopes&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0a0a0a&hide=css,html" height="150" alt="Top Languages" />
 </div>
 
 <br />
