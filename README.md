@@ -1,5 +1,3 @@
-![Header](profile-header.png)
-
 <div align="center">
   <h1>Building the Future with AI & Open Source</h1>
   <p>
@@ -79,9 +77,9 @@ A modern CLI tool for efficient project scaffolding and management.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devgabriellopes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0f6fc&text_color=c9d1d9" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgabriellopes&theme=dark" alt="Gabriel's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabriellopes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabriellopes&theme=dark" alt="Top Languages" />
 </div>
 
 <br />
