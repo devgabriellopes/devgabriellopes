@@ -74,15 +74,6 @@ A modern CLI tool for efficient project scaffolding and management.
 
 <br />
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devgabriellopes&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&icon_color=8b5cf6&bg_color=0a0a0a" height="150" alt="Gabriel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabriellopes&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0a0a0a&hide=css,html" height="150" alt="Top Languages" />
-</div>
-
-<br />
-
 <div align="center">
   <p><i>"The best way to predict the future is to invent it."</i></p>
 </div>
