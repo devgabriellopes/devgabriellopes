@@ -34,46 +34,6 @@
 
 </div>
 
-<br />
-
-## 🚀 Featured Work
-
-### 🧠 [Studia AI](https://www.studia-ai.com)
-
-> **Indie Hacker Project**
-
-An AI-powered learning workspace that transforms unstructured notes into structured knowledge.
-
-- **Role**: Founder & Lead Developer
-- **Stack**: Next.js, AI Agents, Vector DB
-- **Highlight**: Bootstrapped this project to solve personal knowledge management challenges.
-
-### 🤖 [Aden](https://adenhq.com/)
-
-> **Open Source Contribution**
-
-The self-improving AI agent framework. Define goals in natural language, and Aden generates and evolves reliable agent workflows.
-
-- **Role**: Core Contributor
-- **Focus**: Agentic workflows, self-correction mechanisms.
-
-### 🔐 [Infisical](https://infisical.com/)
-
-> **Open Source Contribution**
-
-Open Source Secret Management Platform. Redefining DevSecOps with end-to-end encrypted secret management.
-
-- **Role**: Contributor
-- **Focus**: Security, developer experience.
-
-### 💻 [Glust](https://github.com/devgabriellopes/glust)
-
-> **Personal Tool**
-
-A modern CLI tool for efficient project scaffolding and management.
-
-<br />
-
 <div align="center">
   <p><i>"The best way to predict the future is to invent it."</i></p>
 </div>
